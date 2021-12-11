@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<p align = "center"> <img src = "https://github.com/kshitijaggarwal1/kshitijaggarwal1/blob/main/Banner.gif" alt = "Kshitij's Github Banner"> </p>
+<p align = "center"> <img src = "https://github.com/kshitijaggarwal1/kshitijaggarwal1/blob/main/Banner.gif" alt = "Kshitij's Github Banner" width = "1280px"> </p>
 
 <!-- ![Kshitij's GitHub Banner(./assets/GitHubHeader.png)](https://github.com/kshitijaggarwal1/kshitijaggarwal1/blob/main/Banner.gif) -->
 <!--
