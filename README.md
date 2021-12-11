@@ -26,7 +26,7 @@ Hey there! 👋 </br></br>
 
 ## ⚙ Technical stack
 - 👨‍💻 &nbsp; 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=Black)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
