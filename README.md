@@ -36,7 +36,7 @@ Hey there! 👋 </br></br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![ReactJs](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
-  ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=material-ui)
+  ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=material-ui&logoColor=White)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
