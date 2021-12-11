@@ -1,5 +1,8 @@
 <!-- ### Hi there 👋 -->
-![Kshitij's GitHub Banner(./assets/GitHubHeader.png)](https://github.com/kshitijaggarwal1/kshitijaggarwal1/blob/main/Banner.gif)
+
+<p align = "center"> <img src = "https://github.com/kshitijaggarwal1/kshitijaggarwal1/blob/main/Banner.gif" alt = "Kshitij's Github Banner"> </p>
+
+<!-- ![Kshitij's GitHub Banner(./assets/GitHubHeader.png)](https://github.com/kshitijaggarwal1/kshitijaggarwal1/blob/main/Banner.gif) -->
 <!--
 **kshitijaggarwal1/kshitijaggarwal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
