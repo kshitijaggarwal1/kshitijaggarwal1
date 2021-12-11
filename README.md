@@ -24,7 +24,7 @@ Hey there! 👋 </br></br>
 </p> 
 <hr>
 
-<h5>Technical knack</h5>
+***Technical stack***
 - 👨‍💻 &nbsp; 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
