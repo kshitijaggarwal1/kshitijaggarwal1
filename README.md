@@ -71,4 +71,4 @@ Hey there! 👋 </br></br>
 
 
 ## ☕ Buy me a Coffee?
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn(https://www.linkedin.com/in/kshitijaggarwal1/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
