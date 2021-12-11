@@ -44,4 +44,14 @@ Hey there! 👋 </br></br>
   ![Linux](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=white)
 
 
-## <img src="https://user-images.githubusercontent.com/59042461/145668531-5b9bae33-914f-44aa-adf8-7ef549ed2e1e.png" alt="👷‍♂️" /> Checkout my work
+## 💻 Checkout my work
+- Competitve programming profiles:
+  - Codeforces  : ![kshitijaggarwal1](https://codeforces.com/profile/kshitijaggarwal1)
+  - Codechef    : ![kaggarwal1](https://www.codechef.com/users/kaggarwal1)
+  - Hackerrank  : 
+  - Hackerearth :
+  - Spoj        :
+  - AtCoder     :
+  - LeetCode    :
+  - StopStalk   :
+- Development profile
