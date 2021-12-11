@@ -57,4 +57,5 @@ Hey there! 👋 </br></br>
   - LeetCode    : [kshitijaggarwal1](https://leetcode.com/kshitijaggarwal1/)
   - StopStalk   : [CoDeGeeK](https://www.stopstalk.com/user/profile/CoDeGeeK)
  
-- Development profile
+- Development profiles:
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=kshitijaggarwal1)
