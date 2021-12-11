@@ -48,4 +48,5 @@ Hey there! 👋 </br></br>
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-333333?style=flat&logo=google-cloud&logoColor=white)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
+- 📁 &nbsp;
+  ![Microsoft Office Suite](https://img.shields.io/badge/Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
