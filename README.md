@@ -7,7 +7,7 @@ Hey there! 👋 </br></br>
 👉 Highly comfortable with C & C++ possesing a professional experience 💼 as a Teaching Assistant and Technical Content Engineer by working with <a href = "https://www.codingninjas.com/" target = "_blank">Coding Ninjas, India</a></br>
 👉 Has worked on front-end web technologies including HTML5, CSS, JS, and Bootstrap during the internship with <a href = "https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html" target = "_blank">IIT, Roorkee</a></br>
 👉 Competently experienced as a Software Engineer 💻 having worked at <a href = "https://www.goldmansachs.com/index.html" target = "_blank">Goldman Sachs</a>, India.</br>
-👉 Looking out to connect with you!✌</br>
+👉 Looking forward to connect with you! ✌</br>
 </br>
 </p>
 
@@ -71,4 +71,4 @@ Hey there! 👋 </br></br>
 
 
 ## ☕ Buy me a Coffee?
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
