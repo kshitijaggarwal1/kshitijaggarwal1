@@ -43,7 +43,7 @@ Hey there! 👋 </br></br>
   ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=white)
 
-<br>
+<p></p>
 ## 💻 Checkout my work
 - Competitve programming profiles:
   - Codeforces  : [kshitijaggarwal1](https://codeforces.com/profile/kshitijaggarwal1)
