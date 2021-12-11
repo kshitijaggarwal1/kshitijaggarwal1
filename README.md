@@ -77,7 +77,7 @@ Hey there! 👋 </br></br>
 <br><br>
 <b> Want to know more about me? [Check out my portfolio.](http://kshitijaggarwal1.herokuapp.com/) </b> <br>
 <p> 
-  📧 kshitijaggarwal1@gmail.com
-  📌 Open for full-time roles as a Software Engineer and Software Developer. <br>
-  📌 Open to relocating Internationally.
+  📧 kshitijaggarwal1@gmail.com <br>
+  💡 Open for full-time roles as a Software Engineer and Software Developer. <br>
+  💡 Open to relocating Internationally.
 </p>
