@@ -1,5 +1,4 @@
 <p align = "center"> <img src = "https://github.com/kshitijaggarwal1/kshitijaggarwal1/blob/main/Banner.gif" alt = "Kshitij's Github Banner" width = "1280px"> </p>
-</br>
 <p> 
 Hey there! 👋 </br></br>
 👉 I'm Kshitij, a passionate Software Engineer, creative coder, and a guitarist🎸 who is always ready to learn and explore the ocean of technologies. </br>
