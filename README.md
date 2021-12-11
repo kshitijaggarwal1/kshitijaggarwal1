@@ -44,7 +44,7 @@ Hey there! 👋 </br></br>
   ![Linux](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=white)<br />
 
 
-<br><br>
+<br>
 
 ## 💻 Checkout my work
 - Competitve programming profiles:
@@ -66,7 +66,7 @@ Hey there! 👋 </br></br>
 </a>
 
 
-<br>
+<br><br>
 
 
 ## ☕ Buy me a Coffee?
