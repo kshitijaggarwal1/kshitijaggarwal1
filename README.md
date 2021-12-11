@@ -50,3 +50,8 @@ Hey there! 👋 </br></br>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Microsoft Office Suite](https://img.shields.io/badge/Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
   ![LaTex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
+- 💻 &nbsp;
+  ![Android](https://img.shields.io/badge/Android-333333?style=flat&logo=android&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-333333?style=flat&logo=ios&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=white)
