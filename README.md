@@ -41,17 +41,17 @@ Hey there! 👋 </br></br>
   ![Android](https://img.shields.io/badge/Android-333333?style=flat&logo=android&logoColor=white)
   ![IOS](https://img.shields.io/badge/iOS-333333?style=flat&logo=ios&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=white)<br />
 
-<br/>
 ## 💻 Checkout my work
 - Competitve programming profiles:
   - Codeforces  : [kshitijaggarwal1](https://codeforces.com/profile/kshitijaggarwal1)
   - Codechef    : [kaggarwal1](https://www.codechef.com/users/kaggarwal1)
-  - Hackerrank  : 
-  - Hackerearth :
-  - Spoj        :
-  - AtCoder     :
-  - LeetCode    :
-  - StopStalk   :
+  - Hackerrank  : [kshitijaggarwal2](https://www.hackerrank.com/kshitijaggarwal2)
+  - Hackerearth : [kshitijaggarwal1](https://www.hackerearth.com/@kshitijaggarwal1)
+  - Spoj        : [kshitijagg_1](https://www.spoj.com/users/kshitijagg_1/)
+  - AtCoder     : [kshitijaggarwal](https://atcoder.jp/users/kshitijaggarwal)
+  - LeetCode    : [kshitijaggarwal1](https://leetcode.com/kshitijaggarwal1/)
+  - StopStalk   : [CoDeGeeK](https://www.stopstalk.com/user/profile/CoDeGeeK)
+ 
 - Development profile
